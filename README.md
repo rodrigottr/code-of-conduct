@@ -1,6 +1,6 @@
 # Código de Conduta
 
-Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades de TI do Telegram.
+Esse guia traz sugestões e orientações de conduta para uma convivência saudável na comunidade de participantes do Grupo de Trabalho de Ciência, Tecnologia e Inovação da Câmara Legislativa do DF. Este documento é uma adaptação do [Código de Conduta nos grupos de TI do Telegram](https://github.com/telegram-it-groups/code-of-conduct).
 
 ## 1. Política anti-harassment
 
@@ -13,7 +13,7 @@ Os canais signatários deste guia são locais livres de assédio, opressão e pr
 - Piadas sexistas, machistas, misóginas ou discriminatórias, contra miniorias, pessoas ou grupos não serão toleradas;
 - Bullying não será tolerado.
 
-Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista, serão removidos do grupo ou canal.
+Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista, serão removidos do grupo.
 
 ## 2. Política anti-spam
 
@@ -26,7 +26,7 @@ Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso
 
 ## 4. Orientações diversas
 
-Lembre-se que o telegram é uma rede mundial, dar bom dia, boa tarde e boa noite não faz sentido já que existem usuários em diversos fusos nos grupos, tente entender o contexto das conversas e interagir. Se preferir inicie um novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que telegram não é real-time-chat, mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
+Lembre-se que o whatsapp é uma rede mundial, dar bom dia, boa tarde e boa noite não faz sentido já que existem usuários em diversos fusos nos grupos, tente entender o contexto das conversas e interagir. Se preferir inicie um novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que whatsapp não é real-time-chat, mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
 
 Não precisa pedir permissão para perguntar, muito menos perguntar se alguém conhece determinado assunto no grupo antes de informar sua dúvida. Apenas faça sua pergunta e aguarde uma interação.
 
@@ -39,24 +39,23 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 ### 4.1 Tema dos grupos
 
 - Sempre que possível mantenha o tema central do grupo nas conversas;
-- Evite temas off-topics como games, futebol, credo e política;
+- Evite temas off-topics como games, futebol, credos;
 - Chame seu colega para um grupo off-topic ou em PVT para discutir esses temas se desejar.
 
 ### 4.2 Divulgar vagas de emprego
 
 - Não divulgue vagas de emprego sem consultar os admins (em pvt);
 - Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com TI;
-- Se preferir, existem canais no telegram específicos para este tipo de atividade.
 
 ### 4.3 Divulgar canais
 
-- Não divulgue outros grupos ou canais sem consultar os admins (em pvt);
-- Se for autorizado pelos admins, ainda assim, evite fazer flood com o link do grupo.
+- Não divulgue outros grupos sem consultar os admins (em pvt);
+- Se for autorizado pelos admins, ainda assim, evite fazer flood com o link do outro grupo.
 
 ### 4.4 Divulgar eventos
 
 - Não divulgue eventos sem consultar os admins (em pvt);
-- Não entre no canal apenas para divulgar eventos;
+- Não entre no grupo apenas para divulgar eventos;
 - Não seja aquele usuário que só aparece para fazer propaganda;
 - Os admins percebem quem participa, ajuda, conversa, colabora e agrega ao grupo, e isso é levado em conta para liberação;
 - Se for autorizado pelos admins, ainda assim, evite fazer flood do evento no grupo;
@@ -72,83 +71,36 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 - Não divulgue produtos, serviços, cursos ou quaisquer materiais sem consultar os admins (em pvt);
 - Se autorizado, ainda assim, a divulgação deste tipo de oferta deve ter link com o tema do grupo;
 - Evite fazer flood com a divulgação de produtos e serviços;
-- Se preferir, existem canais no telegram específicos para este tipo de atividade.
 
 ### 4.7 Enviar código
 
 - Evite fazer flood de código no grupo, use sistemas pastebin, gist ou snippets e passe apenas a url no grupo;
-- Para enviar códigos no meio do parágrafo, coloque-o entre crases para destacá-lo com fonte monoespaçada (e fundo vermelho na versão web), por exemplo: ``Use o comando `uname -a` para descobrir a versão``.
 
-## 5. Grupos signatários deste guia
-
-### 5.1 Grupos e canais com URLs Públicas
-
-1. [https://telegram.me/puppetbr](https://telegram.me/puppetbr)
-2. [https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)
-3. [https://telegram.me/vagrantbr](https://telegram.me/vagrantbr)
-4. [https://telegram.me/dockerbr](https://telegram.me/dockerbr)
-5. [https://telegram.me/ansiblebr](https://telegram.me/ansiblebr)
-6. [https://telegram.me/elasticbr](https://telegram.me/elasticbr)
-7. [https://telegram.me/devopsbr](https://telegram.me/devopsbr)
-8. [https://telegram.me/go_br](https://telegram.me/go_br)
-9. [https://telegram.me/chefbr](https://telegram.me/chefbr)
-10. [https://telegram.me/PyCoding](https://telegram.me/PyCoding)
-11. [https://telegram.me/PfSenseBr](https://telegram.me/PfSenseBr)
-12. [https://telegram.me/ShellBr](https://telegram.me/ShellBr)
-13. [https://telegram.me/OpenStackBr](https://telegram.me/OpenStackBr)
-14. [https://telegram.me/powershellbr](https://telegram.me/powershellbr)
-15. [https://telegram.me/frontendbrasil](https://telegram.me/frontendbrasil)
-16. [https://telegram.me/angularjsbrasil](https://telegram.me/angularjsbrasil)
-17. [https://telegram.me/javascriptbrasil](https://telegram.me/javascriptbrasil)
-18. [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)
-19. [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)
-20. [https://telegram.me/excelbr](https://telegram.me/excelbr)
-21. [https://telegram.me/cephbr](https://telegram.me/cephbr)
-22. [https://telegram.me/NxfilterBR](https://telegram.me/NxfilterBR)
-23. [https://telegram.me/mongodbbrasil](https://telegram.me/mongodbbrasil)
-24. [https://telegram.me/rocketchatbr](https://telegram.me/rocketchatbr)
-25. [https://telegram.me/quasarframeworkbrasil](https://telegram.me/quasarframeworkbrasil)
-26. [https://telegram.me/azurebrasil](https://telegram.me/azurebrasil)
-27. [https://telegram.me/caveiratech](https://telegram.me/caveiratech)
-28. [https://telegram.me/quasarframeworkbrasil](https://telegram.me/quasarframeworkbrasil)
-29. [https://telegram.me/DesenvolvimentoDeBots](https://telegram.me/DesenvolvimentoDeBots)
-30. [https://telegram.me/phpse](https://telegram.me/phpse)
-31. [https://telegram.me/kubernetesbr](https://telegram.me/kubernetesbr)
-32. [https://telegram.me/baculabr](https://telegram.me/baculabr)
-33. [https://telegram.me/salt_br](https://telegram.me/salt_br)
-34. [https://telegram.me/datasciencepython](https://telegram.me/datasciencepython)
-35. [https://telegram.me/fiberhomebrasil](https://telegram.me/fiberhomebrasil)
-36. [https://telegram.me/arduinobr](https://telegram.me/arduinobr)
-37. [https://telegram.me/phpmaranhao](https://telegram.me/phpmaranhao)
-38. [https://telegram.me/gdgsaoluis](https://telegram.me/gdgsaoluis)
-39. [https://telegram.me/saoluishackerspace](https://telegram.me/saoluishackerspace)
-
-### 5.2 Outros
-
-1. [Be MEAN - privado](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)
-
-## 6. Como assinar?
-
-Converse com sua comunidade, pergunte se todos concordam e se sentem confortáveis em seguir e recomendar esse guia de conduta para novos membros. Caso eles topem seguir o guia, basta enviar um PR adicionando o seu grupo na seção acima.
-
-## 7. Como contribuir?
+## 5. Como contribuir?
 
 Abra issues ou envie PRs para melhorar ou expandir este guia.
 
-Acesse o grupo do código-de-conduta [https://telegram.me/joinchat/AejjFUFKkqIxWgUMzi9d5Q](https://telegram.me/joinchat/AejjFUFKkqIxWgUMzi9d5Q) e mande seu feedback.
+Votos em um PR são determinados de acordo com o seguinte fluxo:
+* Um comentário contém que contenha um emoji signigicando um em qualquer lugar no corpo do texto conta como voto a favor ou contra o PR.
+* O mesmo vale para reações ao PR em si
+* O PR em si conta como :+1: pelo dono, a menos que este vote ao contrário.
+* Votação será válida dentro da janela de votação a ser estabelecida.
+* Enquanto o processo de votação estiver ocorrendo, usuários podem mudar suas reações e editar seus comentários, efetivando, portanto, a mudança de voto.
 
-## 8. Licença
+Emoji que contam como votos são:
+* +1: :+1: :thumbsup: :heart: :two_hearts: :blue_heart: :purple_heart: :green_heart: :yellow_heart: :heartpulse: :sparkling_heart: :tada: :heart_eyes: :grin: :grinning: :joy: :laughing: :smile: :smiley: :smiling_imp: :ok_hand: :fire: :metal: :raised_hands: :100: :heavy_check_mark: :white_check_mark: :ballot_box_with_check: :accept: :congratulations:
+* -1: :-1: :thumbsdown: :confused: :x: :interrobang: :heavy_multiplication_x: :put_litter_in_its_place: :no_entry: :negative_squared_cross_mark: :worried: :frowning: :imp: :anguished: :grimacing: :cold_sweat: :disappointed: :weary: :confounded: :cry: :tired_face: :broken_heart: :hankey: :poop: :shit: :fu: :no_good: :person_frowning:
+
+## 6. Licença
 
 [Creative Commons BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## 9. URLs curtas e amigáveis
+## 7. URLs curtas e amigáveis
 
 Use as URls abaixo para pinar o código no topo do seu canal.
 
-- [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
-- [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
-- [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
+- [http://tiny.cc/conduta-ctidf](http://tiny.cc/conduta-ctidf)
 
-## 10. Autor e mantenedor do projeto
+## 8. Autor e mantenedor do projeto Original
 
 Guto Carvalho (gutocarvalho@gmail.com)
